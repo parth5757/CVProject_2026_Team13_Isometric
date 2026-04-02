@@ -1,0 +1,7 @@
+names:
+- wheat_head
+nc: 1
+path: d:\CVProject_2026_Team13_Isometric_v3\CVProject_2026_Team13_Isometric\yolo_dataset
+test: images/test
+train: images/train
+val: images/val
